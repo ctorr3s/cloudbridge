@@ -1,0 +1,7 @@
+# Copy file to remote system:
+copy: 
+  src: /home/cxtorr3/bridge1.2.jar
+  dest: /home/cxtorr3/bridge.jar
+  owner: foo 
+  group: foo 
+  mode: 0644 
